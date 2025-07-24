@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Mochiy+Pop+One&family=Rampart+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.heading {
+  font-family: "Mochiy Pop One", sans-serif;
+}
+
+.hero {
+  font-family: "Rampart One", sans-serif;
+}
+
+.lawra {
+  font-family: "Borel", cursive;
+}
