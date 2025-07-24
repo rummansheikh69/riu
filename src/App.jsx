@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 function App() {
   return (
-    <div className=" bg-main text-white">
+    <div className=" bg-main text-white pt-1">
       {/* navbar  */}
       <motion.div
         animate={{ y: 0, opacity: 1 }}
