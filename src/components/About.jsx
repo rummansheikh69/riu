@@ -4,7 +4,7 @@ export function About() {
     {
       title: "CREATE WALLET",
       desc: "Download Phantom wallet and create a new wallet. or login to an existing wallet",
-      src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753328207/raw3_yi7ada.webp",
+      src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753328207/raw_kfcrjy.webp",
     },
     {
       title: "BUY SOL",
@@ -14,7 +14,7 @@ export function About() {
     {
       title: "CONNECT WALLET",
       desc: "Connect your Phantom wallet to Bonk.fun",
-      src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753328207/raw_kfcrjy.webp",
+      src: "https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753328207/raw3_yi7ada.webp",
     },
     {
       title: "SWAP $AXY",
