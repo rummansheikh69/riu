@@ -86,7 +86,7 @@ function App() {
             <div className=" flex items-center gap-5 mt-5">
               <a
                 target="_blank"
-                href="https://twitter.com/riusol"
+                href="https://x.com/RiuSolana"
                 className=" px-2 h-8 flex items-center justify-center border border-zinc-400 rounded-md bg-button"
               >
                 <FaTwitter className=" text-black" />
