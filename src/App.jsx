@@ -28,7 +28,7 @@ function App() {
               </a>
             </div>
             <a
-              href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
+              href="https://letsbonk.fun/token/MuTNE9nzV93ufxQzgeWFsTuMNHZBoK36rV8jJrWbonk"
               className=" relative w-32 md:w-40 h-10 md:h-12 bg-button rounded-md overflow-hidden border-4 border-black flex items-center justify-center"
             >
               <div className=" size-5 rounded-full bg-black absolute -top-2 -right-2" />
@@ -52,11 +52,11 @@ function App() {
             className=" z-40 w-80 border border-zinc-400 md:w-1/2 py-2 px-4 bg-white/50 rounded-xl md:mb-20 flex items-center justify-between"
           >
             <p className=" heading text-black truncate">
-              2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk
+              MuTNE9nzV93ufxQzgeWFsTuMNHZBoK36rV8jJrWbonk
             </p>
             <a
               target="_blank"
-              href="https://letsbonk.fun/token/2DToEdM71ZC8ymitrXMgLaracPdxkTu6WnQBQLiubonk"
+              href="https://letsbonk.fun/token/MuTNE9nzV93ufxQzgeWFsTuMNHZBoK36rV8jJrWbonk"
               className=" p-2 border border-zinc-400 rounded-md bg-subMain"
             >
               <MdArrowOutward />
